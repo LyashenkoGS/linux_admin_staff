@@ -1,0 +1,5 @@
+To: lyashenkogs@gmail.com
+From: kharkov-smetus.rhcloud.com
+Subject:kharkov-smetus.rhcloud.com healt-check failed
+
+Something wrong with the site.
